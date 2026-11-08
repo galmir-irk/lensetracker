@@ -146,38 +146,6 @@
             endingLineNumber = "215"
             landmarkName = "testUsageCalculationFlat()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "3536A512-6004-4314-8F92-E09FE51DFC45 - 5334a51383feb77b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerTests.lensetrackerTests.testTakeOff() throws -&gt; ()"
-                  moduleName = "lensetrackerTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerTests/lensetrackerTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "60"
-                  endingLineNumber = "60"
-                  offsetFromSymbolStart = "736">
-               </Location>
-               <Location
-                  uuid = "3536A512-6004-4314-8F92-E09FE51DFC45 - 5334a51383feb77b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerTests.lensetrackerTests.testTakeOff() throws -&gt; ()"
-                  moduleName = "lensetrackerTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerTests/lensetrackerTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "60"
-                  endingLineNumber = "60"
-                  offsetFromSymbolStart = "740">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -226,38 +194,6 @@
             endingLineNumber = "249"
             landmarkName = "testUsageCalculationFlat()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "38B91C95-F508-4A44-AFE0-AB8B59219C24 - 5334a51383feba51"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerTests.lensetrackerTests.testTakeOff() throws -&gt; ()"
-                  moduleName = "lensetrackerTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerTests/lensetrackerTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "98"
-                  endingLineNumber = "98"
-                  offsetFromSymbolStart = "3620">
-               </Location>
-               <Location
-                  uuid = "38B91C95-F508-4A44-AFE0-AB8B59219C24 - 5334a51383feba51"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerTests.lensetrackerTests.testTakeOff() throws -&gt; ()"
-                  moduleName = "lensetrackerTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerTests/lensetrackerTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "98"
-                  endingLineNumber = "98"
-                  offsetFromSymbolStart = "3800">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -450,128 +386,6 @@
             endingLineNumber = "91"
             landmarkName = "testChangeLensesFlow()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "C35A64FA-AD64-4B3D-8EF3-2372D9E04E65 - 6ecf4adf376f0349"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerUITests.lensetrackerUITests.testChangeLensesAndCheck() throws -&gt; ()"
-                  moduleName = "lensetrackerUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerUITests/lensetrackerUITests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "88"
-                  endingLineNumber = "88"
-                  offsetFromSymbolStart = "1864">
-               </Location>
-               <Location
-                  uuid = "C35A64FA-AD64-4B3D-8EF3-2372D9E04E65 - 6ecf4adf376f0349"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerUITests.lensetrackerUITests.testChangeLensesAndCheck() throws -&gt; ()"
-                  moduleName = "lensetrackerUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerUITests/lensetrackerUITests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "88"
-                  endingLineNumber = "88"
-                  offsetFromSymbolStart = "1860">
-               </Location>
-               <Location
-                  uuid = "C35A64FA-AD64-4B3D-8EF3-2372D9E04E65 - 6ecf4adf376f0349"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerUITests.lensetrackerUITests.testChangeLensesAndCheck() throws -&gt; ()"
-                  moduleName = "lensetrackerUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerUITests/lensetrackerUITests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "88"
-                  endingLineNumber = "88"
-                  offsetFromSymbolStart = "2000">
-               </Location>
-               <Location
-                  uuid = "C35A64FA-AD64-4B3D-8EF3-2372D9E04E65 - 6ecf4adf376f0368"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerUITests.lensetrackerUITests.testChangeLensesAndCheck() throws -&gt; ()"
-                  moduleName = "lensetrackerUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerUITests/lensetrackerUITests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "89"
-                  endingLineNumber = "89"
-                  offsetFromSymbolStart = "2000">
-               </Location>
-               <Location
-                  uuid = "C35A64FA-AD64-4B3D-8EF3-2372D9E04E65 - 6ecf4adf376f0307"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerUITests.lensetrackerUITests.testChangeLensesAndCheck() throws -&gt; ()"
-                  moduleName = "lensetrackerUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerUITests/lensetrackerUITests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "90"
-                  endingLineNumber = "90"
-                  offsetFromSymbolStart = "1520">
-               </Location>
-               <Location
-                  uuid = "C35A64FA-AD64-4B3D-8EF3-2372D9E04E65 - 6ecf4adf376f0307"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerUITests.lensetrackerUITests.testChangeLensesAndCheck() throws -&gt; ()"
-                  moduleName = "lensetrackerUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerUITests/lensetrackerUITests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "90"
-                  endingLineNumber = "90"
-                  offsetFromSymbolStart = "2000">
-               </Location>
-               <Location
-                  uuid = "C35A64FA-AD64-4B3D-8EF3-2372D9E04E65 - 6ecf4adf376f0307"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerUITests.lensetrackerUITests.testChangeLensesAndCheck() throws -&gt; ()"
-                  moduleName = "lensetrackerUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerUITests/lensetrackerUITests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "90"
-                  endingLineNumber = "90"
-                  offsetFromSymbolStart = "2040">
-               </Location>
-               <Location
-                  uuid = "C35A64FA-AD64-4B3D-8EF3-2372D9E04E65 - 6ecf4adf376f02aa"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerUITests.lensetrackerUITests.testChangeLensesAndCheck() throws -&gt; ()"
-                  moduleName = "lensetrackerUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerUITests/lensetrackerUITests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "87"
-                  endingLineNumber = "87"
-                  offsetFromSymbolStart = "1520">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -652,38 +466,6 @@
             endingLineNumber = "112"
             landmarkName = "testCurrentSessionUsageFlat()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "43D7BC78-FF1E-4D99-830B-F0A290061C4A - ec68708fc6bedd5f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerTests.lensetrackerTests.testCurrentSessionUsage() throws -&gt; ()"
-                  moduleName = "lensetrackerTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerTests/lensetrackerTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "112"
-                  endingLineNumber = "112"
-                  offsetFromSymbolStart = "1208">
-               </Location>
-               <Location
-                  uuid = "43D7BC78-FF1E-4D99-830B-F0A290061C4A - ec68708fc6bedd5f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lensetrackerTests.lensetrackerTests.testCurrentSessionUsage() throws -&gt; ()"
-                  moduleName = "lensetrackerTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mak/Documents/LenseTracker/lensetracker/lensetrackerTests/lensetrackerTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "112"
-                  endingLineNumber = "112"
-                  offsetFromSymbolStart = "1204">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
